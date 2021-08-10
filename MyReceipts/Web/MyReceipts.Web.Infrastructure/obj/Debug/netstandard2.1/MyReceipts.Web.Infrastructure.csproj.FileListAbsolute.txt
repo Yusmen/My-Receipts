@@ -1,0 +1,9 @@
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\bin\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.deps.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\bin\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\bin\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\obj\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\obj\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\obj\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\obj\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\obj\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Web\MyReceipts.Web.Infrastructure\obj\Debug\netstandard2.1\MyReceipts.Web.Infrastructure.pdb

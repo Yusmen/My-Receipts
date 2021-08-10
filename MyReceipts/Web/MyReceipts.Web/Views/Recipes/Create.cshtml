@@ -1,0 +1,79 @@
+﻿@model MyReceipts.Web.ViewModels.Recipes.CreateRecipeInputModel
+@{
+
+    this.ViewData["Title"] = "Add new recipe";
+    var categoryItems = this.Model.CategoriesItems.Select(x => new SelectListItem(x.Value, x.Key));
+}
+
+
+
+<form method="post" class="col-md-10" enctype="multipart/form-data">
+    <h1>Add new recipe</h1>
+    <div asp-validation-summary="All"></div>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Instructions"></label>
+        <textarea asp-for="Instructions" class="form-control" rows="5"></textarea>
+        <span asp-validation-for="Instructions" class="text-danger"></span>
+
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CookingTime"></label>
+        <input asp-for="CookingTime" class="form-control" />
+        <span asp-validation-for="CookingTime" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="PeparationTime"></label>
+        <input asp-for="PeparationTime" class="form-control" />
+        <span asp-validation-for="PeparationTime" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="PortionCount"></label>
+        <input asp-for="PortionCount" class="form-control" />
+        <span asp-validation-for="PortionCount" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CetegoryId"></label>
+        <select asp-for="CetegoryId" class="form-control" asp-items="categoryItems"></select>
+        <span asp-validation-for="CetegoryId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Images"></label>
+        <select asp-for="Images" class="form-control" asp-items="categoryItems"></select>
+        <span asp-validation-for="Images" class="text-danger"></span>
+    </div>
+
+
+    <div id="IngredientsContainer">
+        <label asp-for="Ingredients"></label>
+        <a class="btn btn-success" onclick="AddMoreIngredients()">+</a>
+    </div>
+    <input type="submit" class="btn btn-primary" value="SUBMIT" />
+
+
+</form>
+
+@section Scripts
+{
+    <script>
+        var ingredientIndex = 0;
+        function AddMoreIngredients() {
+            //var newInputs = $();
+
+            $("#IngredientsContainer").append("<div class='form-control'>Name: <input type='text' name='Ingredients[" + ingredientIndex +"].IngredientName' id='' />Quality: <input type='text' name='Ingredients["+ingredientIndex+"].Quantity' id='' /></div>");
+
+            ingredientIndex++;
+        }
+    </script>
+    </script>
+}

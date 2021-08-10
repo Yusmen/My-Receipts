@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NICPZfrSwyPcX9mcZtAfozDjISqDZ14WqQ7o/VMgmRBVQpM7M+A2YXeKOuQfXeVoivPxuvmG9b9e/Fc8JuahZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Mapping\\MyReceipts.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mojit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\mojit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mojit\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\mojit\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\mojit\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

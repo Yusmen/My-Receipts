@@ -1,0 +1,14 @@
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\bin\Debug\netstandard2.1\MyReceipts.Services.deps.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\bin\Debug\netstandard2.1\MyReceipts.Services.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\bin\Debug\netstandard2.1\MyReceipts.Services.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\obj\Debug\netstandard2.1\MyReceipts.Services.AssemblyInfoInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\obj\Debug\netstandard2.1\MyReceipts.Services.AssemblyInfo.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\obj\Debug\netstandard2.1\MyReceipts.Services.csproj.CoreCompileInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\obj\Debug\netstandard2.1\MyReceipts.Services.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\obj\Debug\netstandard2.1\MyReceipts.Services.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\bin\Debug\netstandard2.1\MyReceipts.Data.Common.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\bin\Debug\netstandard2.1\MyReceipts.Data.Models.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\bin\Debug\netstandard2.1\MyReceipts.Data.Models.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\bin\Debug\netstandard2.1\MyReceipts.Data.Common.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\obj\Debug\netstandard2.1\MyReceipts.Services.csproj.AssemblyReference.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services\obj\Debug\netstandard2.1\MyReceipts.Services.csproj.CopyComplete

@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <CodeAnalysisRuleSet>..\..\Rules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Include="..\..\stylecop.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.8.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.8" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.312" PrivateAssets="all">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\MyReceipts.Common\MyReceipts.Common.csproj" />
+    <ProjectReference Include="..\..\Data\MyReceipts.Data.Common\MyReceipts.Data.Common.csproj" />
+    <ProjectReference Include="..\..\Data\MyReceipts.Data.Models\MyReceipts.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\MyReceipts.Data\MyReceipts.Data.csproj" />
+    <ProjectReference Include="..\..\Services\MyReceipts.Services.Data\MyReceipts.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Services\MyReceipts.Services.Mapping\MyReceipts.Services.Mapping.csproj" />
+    <ProjectReference Include="..\..\Services\MyReceipts.Services.Messaging\MyReceipts.Services.Messaging.csproj" />
+    <ProjectReference Include="..\..\Services\MyReceipts.Services\MyReceipts.Services.csproj" />
+  </ItemGroup>
+
+</Project>

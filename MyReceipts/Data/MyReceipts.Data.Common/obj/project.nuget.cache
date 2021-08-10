@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yanXUu9iqICjRye9IxqAkGMOJ863d+0Am8IiPoNLf7Wk1HkI42IFaaiH0ovPkxi8rQZDRBu6TP9bH12QBggE0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Common\\MyReceipts.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mojit\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\mojit\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\mojit\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
