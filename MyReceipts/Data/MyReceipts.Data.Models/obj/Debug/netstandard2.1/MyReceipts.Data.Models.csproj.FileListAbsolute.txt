@@ -10,3 +10,15 @@ C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyRe
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.csproj.CopyComplete
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.dll
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\bin\Debug\netstandard2.1\MyReceipts.Data.Models.deps.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\bin\Debug\netstandard2.1\MyReceipts.Data.Models.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\bin\Debug\netstandard2.1\MyReceipts.Data.Models.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\bin\Debug\netstandard2.1\MyReceipts.Data.Common.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\bin\Debug\netstandard2.1\MyReceipts.Data.Common.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.csproj.AssemblyReference.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.AssemblyInfoInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.AssemblyInfo.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.csproj.CopyComplete
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Data\MyReceipts.Data.Models\obj\Debug\netstandard2.1\MyReceipts.Data.Models.pdb

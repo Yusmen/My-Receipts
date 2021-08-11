@@ -7,3 +7,11 @@ C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyRe
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.csproj.CoreCompileInputs.cache
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.dll
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\bin\Debug\netstandard2.1\MyReceipts.Services.Mapping.deps.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\bin\Debug\netstandard2.1\MyReceipts.Services.Mapping.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\bin\Debug\netstandard2.1\MyReceipts.Services.Mapping.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.AssemblyInfo.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Mapping\obj\Debug\netstandard2.1\MyReceipts.Services.Mapping.pdb

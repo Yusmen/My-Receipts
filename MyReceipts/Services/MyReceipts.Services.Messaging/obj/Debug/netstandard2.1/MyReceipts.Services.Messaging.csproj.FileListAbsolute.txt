@@ -7,3 +7,12 @@ C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyRe
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.csproj.CoreCompileInputs.cache
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.dll
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\bin\Debug\netstandard2.1\MyReceipts.Services.Messaging.deps.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\bin\Debug\netstandard2.1\MyReceipts.Services.Messaging.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\bin\Debug\netstandard2.1\MyReceipts.Services.Messaging.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.AssemblyInfo.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Services\MyReceipts.Services.Messaging\obj\Debug\netstandard2.1\MyReceipts.Services.Messaging.pdb
