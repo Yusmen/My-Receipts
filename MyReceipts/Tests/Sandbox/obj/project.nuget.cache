@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cemXQjlsABI0uwk/K0xlughJmbUhXkaOus1o/1lkVS1czm84ElLKbsCzW6Ud76A3MlPXjyNta0b1FSTLIWBH5Q==",
+  "dgSpecHash": "3AMgcw87RIZZ9FNkT6kH5AMbkLg3V9HPJ3U1Ud6CEMV6Rj2YcVm3LPEcKTYsIC7FLJZmmRoDnT2RL/Wn5KDx3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Tests\\Sandbox\\Sandbox.csproj",
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Tests\\Sandbox\\Sandbox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mojit\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
     "C:\\Users\\mojit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",

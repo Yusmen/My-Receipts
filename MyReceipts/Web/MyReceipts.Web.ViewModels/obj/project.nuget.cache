@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I5EeuahwUL09LAS2nRnjENspCEJCgeITjVXv5ewA198zo1xfbUFtzXRaKqX3guh3lBukh9Lv8MYkdRcI3be/Gw==",
+  "dgSpecHash": "qmjhoobm8k5Qx+HclVkTkRetOQFXtGscC/qafXCoIEr0ppRp/D9ZBJfOPmKSO7Ur32D6tj8YADKh9PWnQ9COQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.ViewModels\\MyReceipts.Web.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.ViewModels\\MyReceipts.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mojit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mojit\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.8\\microsoft.aspnetcore.cryptography.internal.5.0.8.nupkg.sha512",

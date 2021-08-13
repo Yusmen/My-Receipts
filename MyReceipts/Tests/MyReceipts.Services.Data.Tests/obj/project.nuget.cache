@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RYJa7CdsNM9Q7XK5yMB9MrmoDDCyfkpON6yJQMBG9aP+oXT3EW7w6WPuhTaruTbYFyGcfEsU0b3ZJZ3QbXr5ig==",
+  "dgSpecHash": "5SZD3VgzgSy96rQ09itRVBvDmfwoFL0DErCzq+MZX/tDty9NaCIk/P8/7VasKJP47slPxwMTXDGXLtueah9VQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Tests\\MyReceipts.Services.Data.Tests\\MyReceipts.Services.Data.Tests.csproj",
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Tests\\MyReceipts.Services.Data.Tests\\MyReceipts.Services.Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mojit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mojit\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

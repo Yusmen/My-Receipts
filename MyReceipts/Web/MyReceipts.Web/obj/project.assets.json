@@ -8427,11 +8427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web\\MyReceipts.Web.csproj",
+      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web\\MyReceipts.Web.csproj",
       "projectName": "MyReceipts.Web",
-      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web\\MyReceipts.Web.csproj",
+      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web\\MyReceipts.Web.csproj",
       "packagesPath": "C:\\Users\\mojit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web\\obj\\",
+      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mojit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8448,32 +8448,32 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data\\MyReceipts.Data.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data\\MyReceipts.Data.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data\\MyReceipts.Data.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data\\MyReceipts.Data.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\MyReceipts.Common\\MyReceipts.Common.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\MyReceipts.Common\\MyReceipts.Common.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\MyReceipts.Common\\MyReceipts.Common.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\MyReceipts.Common\\MyReceipts.Common.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Data\\MyReceipts.Services.Data.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Data\\MyReceipts.Services.Data.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Data\\MyReceipts.Services.Data.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Data\\MyReceipts.Services.Data.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Mapping\\MyReceipts.Services.Mapping.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Mapping\\MyReceipts.Services.Mapping.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Mapping\\MyReceipts.Services.Mapping.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Mapping\\MyReceipts.Services.Mapping.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj"
             },
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.ViewModels\\MyReceipts.Web.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.ViewModels\\MyReceipts.Web.ViewModels.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.ViewModels\\MyReceipts.Web.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.ViewModels\\MyReceipts.Web.ViewModels.csproj"
             }
           }
         }

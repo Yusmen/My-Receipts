@@ -165,11 +165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Common\\MyReceipts.Data.Common.csproj",
+      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data.Common\\MyReceipts.Data.Common.csproj",
       "projectName": "MyReceipts.Data.Common",
-      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Common\\MyReceipts.Data.Common.csproj",
+      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data.Common\\MyReceipts.Data.Common.csproj",
       "packagesPath": "C:\\Users\\mojit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Common\\obj\\",
+      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mojit\\AppData\\Roaming\\NuGet\\NuGet.Config",

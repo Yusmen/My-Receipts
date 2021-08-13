@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A67HbUOVTnnU333NCpA92E1TS/OcEUs80hUYnzpMCLWhx+Gb/cM4W/fJtpLG433o7MB6fVWfEujT62mG9anqpA==",
+  "dgSpecHash": "rB3K2bdiv2/PHo5UyNsH5MTyAZaLM/9vO8TIJKh11AIbiIZL3DVRxSR0vAYvOy0cF4BWEz8AHTfck/ltZWM8Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mojit\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
     "C:\\Users\\mojit\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"

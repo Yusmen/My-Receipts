@@ -1109,11 +1109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj",
+      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj",
       "projectName": "MyReceipts.Services",
-      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj",
+      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services\\MyReceipts.Services.csproj",
       "packagesPath": "C:\\Users\\mojit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services\\obj\\",
+      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mojit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1130,8 +1130,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj"
+            "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Data\\MyReceipts.Data.Models\\MyReceipts.Data.Models.csproj"
             }
           }
         }

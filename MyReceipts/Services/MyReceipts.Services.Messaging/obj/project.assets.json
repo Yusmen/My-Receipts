@@ -2794,11 +2794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj",
+      "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj",
       "projectName": "MyReceipts.Services.Messaging",
-      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj",
+      "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj",
       "packagesPath": "C:\\Users\\mojit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\obj\\",
+      "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mojit\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -77,5 +77,10 @@
             };
             return this.View(viewModel);
         }
+
+        public IActionResult ById()
+        {
+            return this.View();
+        }
     }
 }

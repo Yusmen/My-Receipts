@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HnMve37779d0P7zxOA7sMHckJ8SfTEzBw+W15BhwcruFi2Knbs7wTWGmDWDLJUTW5YsUljufl/2lyq6D28EQYw==",
+  "dgSpecHash": "hqLxuBCV1H1yDaTQdp1+ggB8RTDOOIfacKcH9gsSGw+30o0lUGlI0+AJVntLWwa+uVc+n0OGJ0yRfqvhEUQUKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj",
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Messaging\\MyReceipts.Services.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mojit\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\mojit\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

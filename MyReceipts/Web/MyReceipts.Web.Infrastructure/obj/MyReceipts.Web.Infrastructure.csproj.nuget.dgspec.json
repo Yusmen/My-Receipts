@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj": {}
+    "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj": {
+    "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj",
         "projectName": "MyReceipts.Web.Infrastructure",
-        "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\MyReceipts.Web.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\mojit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Web\\MyReceipts.Web.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mojit\\AppData\\Roaming\\NuGet\\NuGet.Config",

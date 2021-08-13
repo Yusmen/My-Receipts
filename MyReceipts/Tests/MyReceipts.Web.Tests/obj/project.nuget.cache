@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EZ4V7jjsjSdOLtrUUi9eMS3KVHd1ZPYbdnDzeF0FqM4/1/jekTmaiKtc0VHFOf4axZ/V3+F1eUm7M7D3R3ivXg==",
+  "dgSpecHash": "y5EqxDGI1uuzNWJkFa/5In+napLaw+hcNrAyrFeeOle731ijQWrRkt3MxnCnkFqlUg6UrTRgQtNZIGgA+4qQ0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Tests\\MyReceipts.Web.Tests\\MyReceipts.Web.Tests.csproj",
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Tests\\MyReceipts.Web.Tests\\MyReceipts.Web.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mojit\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
     "C:\\Users\\mojit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",

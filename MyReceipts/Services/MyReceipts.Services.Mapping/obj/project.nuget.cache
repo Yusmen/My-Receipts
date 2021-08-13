@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NICPZfrSwyPcX9mcZtAfozDjISqDZ14WqQ7o/VMgmRBVQpM7M+A2YXeKOuQfXeVoivPxuvmG9b9e/Fc8JuahZg==",
+  "dgSpecHash": "QvyjrG7Zi9EnhFWnBdi+BLaLqBaMGiQepBWiXUIUt1QfY5jzfZ0Hezp9TjilbFtHhO44MyVeWlRvgZwGcZQSWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\MyReceipts\\Services\\MyReceipts.Services.Mapping\\MyReceipts.Services.Mapping.csproj",
+  "projectFilePath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyReceipts\\Services\\MyReceipts.Services.Mapping\\MyReceipts.Services.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mojit\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mojit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
