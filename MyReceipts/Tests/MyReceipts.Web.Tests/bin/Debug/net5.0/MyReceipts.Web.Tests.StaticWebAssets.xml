@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\mojit\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.8\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/MyReceipts.Web" Path="C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Web\MyReceipts.Web\wwwroot\" />
+</StaticWebAssets>

@@ -16,7 +16,7 @@ using System.Reflection;
     "ceipts\\Data\\MyReceipts.Data", "MyReceipts.Data.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MyReceipts.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyRe" +
     "ceipts\\Services\\MyReceipts.Services.Data", "MyReceipts.Services.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MyReceipts.Web", "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyRe" +
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("MyReceipts.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\ASP.NET Core\\Solutions\\My-Receipts\\MyRe" +
     "ceipts\\Web\\MyReceipts.Web", "MyReceipts.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyReceipts.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]

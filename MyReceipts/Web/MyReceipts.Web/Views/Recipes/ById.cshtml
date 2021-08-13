@@ -1,156 +1,164 @@
-﻿
+﻿@model MyReceipts.Web.ViewModels.Recipes.SingleRecipeViewModel
+
+@{
+    this.ViewData["Title"] = Model.Name;
+}
+
 <div class="single-recipe-layout1">
-    <div class="ctg-name">PASTA</div>
-    <h2 class="item-title">Chanterelle and Porcini Mushroom Recipes</h2>
+    <div class="ctg-name">@Model.CategoryName</div>
+    <h2 class="item-title">@this.ViewData["Title"]</h2>
     <div class="row mb-4">
         <div class="col-xl-9 col-12">
             <ul class="entry-meta">
                 <li class="single-meta">
-                    <a href="#">
-                        <i class="far fa-calendar-alt"></i>Nov 14,
-                        2018
-                    </a>
+                    <i class="far fa-calendar-alt"></i>
+                    @Model.CreatedOn.ToShortDateString()
                 </li>
                 <li class="single-meta">
-                    <a href="#">
-                        <i class="fas fa-user"></i>by <span>
-                            Kazi
-                            Fahim
-                        </span>
-                    </a>
+
+                    <i class="fas fa-user"></i>by
+                    @if (string.IsNullOrWhiteSpace(Model.AddedbyUserEmail))
+                    {
+                        <a href="@Model.OriginalUrl" target="_blank">by recepti.gotvach.bg</a>
+                    }
+                    else
+                    {
+                        <span>@Model.AddedbyUserEmail</span>
+                    }
                 </li>
                 <li class="single-meta">
                     <ul class="item-rating">
-                        <li class="star-fill"><i class="fas fa-star"></i></li>
-                        <li class="star-fill"><i class="fas fa-star"></i></li>
-                        <li class="star-fill"><i class="fas fa-star"></i></li>
-                        <li class="star-fill"><i class="fas fa-star"></i></li>
-                        <li class="star-empty"><i class="fas fa-star"></i></li>
-                        <li><span>9<span> / 10</span></span> </li>
+                        <li class="star-fill" data-vote="1"><i class="fas fa-star"></i></li>
+                        <li class="star-fill" data-vote="2"><i class="fas fa-star"></i></li>
+                        <li class="star-fill" data-vote="3"><i class="fas fa-star"></i></li>
+                        <li class="star-fill" data-vote="4"><i class="fas fa-star"></i></li>
+                        <li class="star-fill" data-vote="5"><i class="fas fa-star"></i></li>
+                        <li><span id="averageVoteValue">@Model.AverageVote.ToString("0.0")</span> <span> / 5</span></li>
                     </ul>
                 </li>
-                <li class="single-meta">
-                    <a href="#">
-                        <i class="fas fa-heart"></i><span>02</span>
-                        Likes
-                    </a>
-                </li>
             </ul>
         </div>
-        <div class="col-xl-3 col-12">
-            <ul class="action-item">
-                <li><button><i class="fas fa-print"></i></button></li>
-                <li><button><i class="fas fa-expand-arrows-alt"></i></button></li>
-                <li class="action-share-hover">
-                    <button><i class="fas fa-share-alt"></i></button>
-                    <div class="action-share-wrap">
-                        <a href="#" title="facebook"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" title="twitter"><i class="fab fa-twitter"></i></a>
-                        <a href="#" title="linkedin"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="#" title="pinterest"><i class="fab fa-pinterest-p"></i></a>
-                        <a href="#" title="skype"><i class="fab fa-skype"></i></a>
-                        <a href="#" title="rss"><i class="fas fa-rss"></i></a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="item-figure">
-        <img src="img/product/single-product1.jpg" alt="Product">
-    </div>
-    <div class="item-feature">
-        <ul>
-            <li>
-                <div class="feature-wrap">
-                    <div class="media">
-                        <div class="feature-icon">
-                            <i class="far fa-clock"></i>
-                        </div>
-                        <div class="media-body space-sm">
-                            <div class="feature-title">PREP TIME</div>
-                            <div class="feature-sub-title">45 Mins</div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="feature-wrap">
-                    <div class="media">
-                        <div class="feature-icon">
-                            <i class="fas fa-utensils"></i>
-                        </div>
-                        <div class="media-body space-sm">
-                            <div class="feature-title">COOK TIME</div>
-                            <div class="feature-sub-title">45 Mins</div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="feature-wrap">
-                    <div class="media">
-                        <div class="feature-icon">
-                            <i class="fas fa-users"></i>
-                        </div>
-                        <div class="media-body space-sm">
-                            <div class="feature-title">SERVING</div>
-                            <div class="feature-sub-title">10 People</div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="feature-wrap">
-                    <div class="media">
-                        <div class="feature-icon">
-                            <i class="far fa-eye"></i>
-                        </div>
-                        <div class="media-body space-sm">
-                            <div class="feature-title">VIEWS</div>
-                            <div class="feature-sub-title">3,450</div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </div>
-    <div class="making-elements-wrap">
-        <div class="row">
-            <div class="col-md-6">
-                <p class="item-description">
-                    Salamander lied porpoise much over tightly circa horse taped so
-                    innocuously side crudey
-                    mightily rigorous plot life. New homes in particular are subject.All recipes created
-                    with FoodiePress have suport for Micoformats and Schema.org is a collaboration byo
-                    improve.s convallis mi et tellus vehicula convallis. Etiam odio eros, viverra id dui
-                    inrutrum cursus ex. Curabitur et consequatenim.
-                </p>
-            </div>
 
-            <div class="col-md-6">
-                <div class="ingridients-wrap">
-                    <h3 class="item-title"><i class="fas fa-list-ul"></i>Ingridients</h3>
-                  
-                  
-                    <div class="checkbox checkbox-primary">
-                        <label for="checkbox1">1 cup sifted all purpose flour</label>
+        <div class="item-figure">
+            <img class="img-fluid w-100" src="@Model.ImageUrl" alt="@Model.Name" />
+        </div>
+        <div class="item-feature">
+            <ul>
+                <li>
+                    <div class="feature-wrap">
+                        <div class="media">
+                            <div class="feature-icon">
+                                <i class="far fa-clock"></i>
+                            </div>
+                            <div class="media-body space-sm">
+                                <div class="feature-title">PREP TIME</div>
+                                <div class="feature-sub-title">@Model.PeparationTime.TotalMinutes Mins</div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="checkbox checkbox-primary">
-                        <label for="checkbox2">4 cup roasted macadamia nuts</label>
+                </li>
+                <li>
+                    <div class="feature-wrap">
+                        <div class="media">
+                            <div class="feature-icon">
+                                <i class="fas fa-utensils"></i>
+                            </div>
+                            <div class="media-body space-sm">
+                                <div class="feature-title">COOK TIME</div>
+                                <div class="feature-sub-title">@Model.CookingTime.TotalMinutes Mins</div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="checkbox checkbox-primary">
-                        <label for="checkbox3">4 large eggs</label>
+                </li>
+                <li>
+                    <div class="feature-wrap">
+                        <div class="media">
+                            <div class="feature-icon">
+                                <i class="fas fa-users"></i>
+                            </div>
+                            <div class="media-body space-sm">
+                                <div class="feature-title">SERVING</div>
+                                <div class="feature-sub-title">
+                                    @Model.PortionCount
+                                    @if (Model.PortionCount == 1)
+                                    {
+                                        <span>Person</span>
+                                    }
+                                    else
+                                    {
+                                        <span>People</span>
+                                    }
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="checkbox checkbox-primary">
-                        <label for="checkbox4">4 cup roasted macadamia nuts</label>
+                </li>
+                <li>
+                    <div class="feature-wrap">
+                        <div class="media">
+                            <div class="feature-icon">
+                                <i class="fa fa-list-ol"></i>
+                            </div>
+                            <div class="media-body space-sm">
+                                <div class="feature-title">CATEGORY RECIEPES</div>
+                                <div class="feature-sub-title">@Model.CategoryRecipesCount</div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="checkbox checkbox-primary">
-                        <label for="checkbox5">5 cup sifted all purpose flour</label>
-                    </div>
-                    <div class="checkbox checkbox-primary">
-                        <label for="checkbox6">8 cup roasted macadamia nuts</label>
+                </li>
+            </ul>
+        </div>
+        <div class="making-elements-wrap">
+            <div class="row">
+                <div class="col-md-6">
+                    <p class="item-description">
+                        @Model.Instructions
+                    </p>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="ingridients-wrap">
+                        <h3 class="item-title"><i class="fas fa-list-ul"></i>Ingridients</h3>
+                        @foreach (var ingredient in Model.Ingredients)
+                        {
+                            <div class="checkbox checkbox-primary">
+                                <label for="checkbox1">@ingredient.Quantity @ingredient.IngredientName</label>
+                            </div>
+                        }
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
+
+<form method="post" id="antiForgetyForm"></form>
+@section Scripts{
+    <script>
+        $("li[data-vote]").each(function (el) {
+            $(this).click(function () {
+                var vote = $(this).attr("data-vote");
+                var recipeId =@Model.Id;
+                var antiForgeryToken = $('#antiForgetyForm input[name=_RequestVerificationToken]').val;
+                var data = { recipeId: recipeId, value: value };
+                $.ajax({
+                    type: "POST",
+                    url: "/api/Votes",
+                    data: JSON.stringify(data),
+                    headers: {
+                        "X-CSRF-TOKEN": antiForgeryToken
+                    },
+                    success: function (data)
+                    {
+                        $("#averageVoteValue").html(data.averageVote.toFixed(1));
+                    },
+                    contentType:'applicatiom/json',
+
+                });
+
+            });
+        });
+    </script>
+
+
+}

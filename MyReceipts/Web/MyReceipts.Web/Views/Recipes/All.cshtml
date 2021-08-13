@@ -13,7 +13,8 @@
             <div class="d-flex  row-cols-md-3">
                 <img src="@recipe.ImageUrl" alt="..." width="100" class="mr-3 img-responsive">
                 <div class="media=body">
-                    <h5 class="mt-0">@recipe.Name</h5>
+                    <h5 class="mt-0"><a asp-action="ById" asp-route-id="@recipe.Id">@recipe.Name</a></h5>
+                    @recipe.CategotyName
                 </div>
             </div>
         }
