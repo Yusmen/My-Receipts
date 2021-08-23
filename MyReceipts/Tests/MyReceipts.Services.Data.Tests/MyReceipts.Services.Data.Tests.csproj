@@ -29,6 +29,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Data\MyReceipts.Data\MyReceipts.Data.csproj" />
     <ProjectReference Include="..\..\Services\MyReceipts.Services.Data\MyReceipts.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Web\MyReceipts.Web\MyReceipts.Web.csproj" />
   </ItemGroup>
 
 </Project>
