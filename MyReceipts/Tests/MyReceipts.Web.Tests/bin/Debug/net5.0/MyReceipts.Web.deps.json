@@ -38,6 +38,8 @@
           "Microsoft.AspNetCore.Identity.UI": "5.0.8",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.8",
           "Microsoft.EntityFrameworkCore.Design": "5.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.8",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.8",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.2",
           "Microsoft.Web.LibraryManager.Build": "2.1.113",
           "MyReceipts.Common": "1.0.0",
@@ -932,6 +934,11 @@
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/5.0.8": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "5.0.8"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -4111,6 +4118,13 @@
       "sha512": "sha512-kQbUHiJDqIm+LdY7SS/fm/W/eHCXUJjAJhMvTzSGtPuFGBN4S+RKfs8FiXXk0WKWxmDjXo4Dck4WDJLCXdv/Sw==",
       "path": "microsoft.entityframeworkcore.sqlserver/5.0.8",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.5.0.8.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/5.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gINPFTfwmYXSz2Chn4eAxoC5AJmM0qtSMPtU0evLqLoIZ8E4jAxrBTwRIt2p/42Fczqav/V3tR6yXlq4tAAGiQ==",
+      "path": "microsoft.entityframeworkcore.tools/5.0.8",
+      "hashPath": "microsoft.entityframeworkcore.tools.5.0.8.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
       "type": "package",

@@ -4,11 +4,11 @@
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Mvc;
+    using MyReceipts.Common;
     using MyReceipts.Data.Models;
     using MyReceipts.Services.Data;
     using MyReceipts.Web.ViewModels.Recipes;
     using System;
-    using System.Security.Claims;
     using System.Threading.Tasks;
 
 
@@ -29,6 +29,29 @@
             this.recipeService = recipeService;
             this.userManager = userManager;
             this.environment = environment;
+        }
+
+        [Authorize(Roles = GlobalConstants.AdministratorRoleName)]
+        public IActionResult Edit(int id)
+        {
+            var inputModel = this.recipeService.GetById<EditRecipeInputModel>(id);
+            inputModel.CategoriesItems = this.categoriesService.GetAllAsKeyValuePairs();
+            return this.View(inputModel);
+        }
+
+        [HttpPost]
+        [Authorize]
+        public async Task<IActionResult> Edit(int id, EditRecipeInputModel input)
+        {
+            if (!this.ModelState.IsValid)
+            {
+                input.CategoriesItems = this.categoriesService.GetAllAsKeyValuePairs();
+                return this.View(input);
+            }
+
+            await this.recipeService.UpdateAsync(id, input);
+
+            return this.RedirectToAction(nameof(this.ById), new { id = id });
         }
 
         [Authorize]
@@ -62,11 +85,18 @@
                 return this.View(input);
             }
 
-            return this.Redirect("/");
+            this.TempData["Message"] = "Recipe added successfully!";
+
+            return this.RedirectToAction("All");
         }
 
         public IActionResult All(int id = 1)
         {
+            if (id <= 0)
+            {
+                return this.NotFound();
+            }
+
             const int ItemsPerPage = 12;
             var viewModel = new RecipesListViewModel()
             {
