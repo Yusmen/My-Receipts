@@ -477,3 +477,5 @@ C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-R
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Web\MyReceipts.Web\obj\Debug\net5.0\Razor\Areas\Administration\Views\Categories\Index.cshtml.g.cs
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Web\MyReceipts.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Web\MyReceipts.Web\obj\Debug\net5.0\Razor\Views\Recipes\Edit.cshtml.g.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Web\MyReceipts.Web\obj\Debug\net5.0\Razor\Views\SearchRecipes\Index.cshtml.g.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\ASP.NET Core\Solutions\My-Receipts\MyReceipts\Web\MyReceipts.Web\obj\Debug\net5.0\Razor\Views\SearchRecipes\List.cshtml.g.cs
