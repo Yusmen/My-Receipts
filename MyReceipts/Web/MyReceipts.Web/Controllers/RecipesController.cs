@@ -1,5 +1,9 @@
 ﻿namespace MyReceipts.Web.Controllers
 {
+    using System;
+    using System.Text;
+    using System.Threading.Tasks;
+
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.Identity;
@@ -7,10 +11,8 @@
     using MyReceipts.Common;
     using MyReceipts.Data.Models;
     using MyReceipts.Services.Data;
+    using MyReceipts.Services.Messaging;
     using MyReceipts.Web.ViewModels.Recipes;
-    using System;
-    using System.Threading.Tasks;
-
 
     public class RecipesController : Controller
     {
@@ -18,17 +20,20 @@
         private readonly IRecipeService recipeService;
         private readonly UserManager<ApplicationUser> userManager;
         private readonly IWebHostEnvironment environment;
+        private readonly IEmailSender emailSender;
 
         public RecipesController(
             ICategoriesService categoriesService,
             IRecipeService recipeService,
             UserManager<ApplicationUser> userManager,
-            IWebHostEnvironment environment)
+            IWebHostEnvironment environment,
+            IEmailSender emailSender)
         {
             this.categoriesService = categoriesService;
             this.recipeService = recipeService;
             this.userManager = userManager;
             this.environment = environment;
+            this.emailSender = emailSender;
         }
 
         [Authorize(Roles = GlobalConstants.AdministratorRoleName)]
@@ -114,5 +119,26 @@
 
             return this.View(recipe);
         }
+
+        [HttpPost]
+        [Authorize(Roles = GlobalConstants.AdministratorRoleName)]
+        public async Task<IActionResult> Delete(int id)
+        {
+            await this.recipeService.DeleteAsync(id);
+            return this.RedirectToAction(nameof(this.All));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> SendToEmail(int id)
+        {
+            var recipe = this.recipeService.GetById<RecipeInListViewModel>(id);
+            var html = new StringBuilder();
+            html.Append($"<h1>{recipe.Name}<h1>");
+            html.Append($"<h3>{recipe.CategotyName}<h3>");
+            html.Append($"<img src=\"{recipe.ImageUrl}\"");
+            await this.emailSender.SendEmailAsync("recepti@recepti.com", "MyReceipts", "wefwef@abv.bg", recipe.Name, html.ToString());
+            return this.RedirectToAction(nameof(this.ById), new { id });
+        }
+
     }
 }
